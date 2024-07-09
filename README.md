@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm a Engineering student from Vishwakarma Institute of Information Technology.</h4>
+<h4 align="left">I'm an Engineering student from Vishwakarma Institute of Information Technology.</h4>
 
 ###
 
