@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm an Full stack Software Engineer.</h4>
+<h4 align="left">I'm a Full stack Software Engineer.</h4>
 
 ###
 
