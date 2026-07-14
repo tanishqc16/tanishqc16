@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="left">I'm an Engineering student from Vishwakarma Institute of Information Technology.</h4>
+<h4 align="left">I'm an Full stack Software Engineer.</h4>
 
 ###
 
-<p align="left">I am a developer experienced in the MERN stack and creating web applications. I'm passionate about problem solving and learning new technologies.
+<p align="left">I am a developer experienced in the MERN stack and creating web applications. I'm passionate about problem solving, Agentic AI, building AI agents, understanding its workflow and optimizations.
 </p>
 
 ###
